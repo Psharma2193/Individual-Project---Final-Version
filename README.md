@@ -72,6 +72,54 @@ After taking the dta exploration further, I was interested to look at the trend 
 
 ![Data Insight 4](https://github.com/Psharma2193/Individual-Project---Final-Version/blob/master/DI_4.PNG)
 
-### Conclusion
+## Conclusion
 
-Chicago is widely known for its high crime rate. Handling speed & traffic violations can become secondary for authorities. After looking at the data the authorities can identify the areas that need strict law enforcement like regular police patrolling and ticketing policy. The dataset is from 2014 - 2019 and it clearly speaks that installation of Speed camera in 2014 has led to decline in violation cases over the years. The citizen may have become conscious of their actions as they are at higher risk of getting caught by authorities. This is in a way encouraging and positive signal for authorities to increase cameras in children safety zone to furthermore decrease violations.
+The dataset is from 2014 - 2019 and the analysis shows that installation of Speed camera in 2014 has led to decline in violation cases over the years. The reason could be that the citizen may have become conscious of their actions as they are at higher risk of getting caught by authorities. This is in a way encouraging and positive signal for authorities to increase cameras in children safety zone to furthermore decrease violations.
+Chicago is widely known for its high crime rate. Handling speed & traffic violations can become secondary for authorities. After looking at the data from Traffic crashes and red light violation, there is new perspective for authorities to identify the areas that need strict law enforcement like regular police patrolling and ticketing policy. 
+
+
+## Revision from First Version
+
+Major emphasis in Final version was to make charts more professional and make sure purpose of visualization is communicated loud and clear. The analysis and results are kept intact from first version and only cosmetic changes are made.
+
+**Mistakes I made in the First Version** 
+- The chart title did not convey properly what purpose it was meant for
+- I went overboard with labelling the data points on chart
+- Legend's title and axis was meaningless for the audience
+- Usage of unnecessary Filter cards which didn't add value to analysis
+
+
+### Data Insight 1
+
+Apart from correcting above mentioned mistakes, I took Speed camera violations as the reference point for this chart as i felt that they are more relevant for the analysis. Also, instead of labelling every single data point, i've only labelled minimum and maximum for each. 
+
+
+BEFORE           |  AFTER
+:-------------------------:|:-------------------------:
+<img src="https://github.com/Psharma2193/Individual-Project---First-Version/blob/master/DI_1.PNG" width="425"/>  |  <img src="https://github.com/Psharma2193/Individual-Project---Final-Version/blob/master/DI_1.PNG" width="425"/>
+
+
+### Data Insight 2
+
+In this Viz, I only kept the zoomed in version of analysis. Earlier it was repetitive and overall chart didn't highlight the correlation better. The only filter card that I retained was page filter for each year.
+
+
+BEFORE           |  AFTER
+:-------------------------:|:-------------------------:
+<img src="https://github.com/Psharma2193/Individual-Project---First-Version/blob/master/DI_2-Scatter Plot.PNG" width="425"/>  |  <img src="https://github.com/Psharma2193/Individual-Project---Final-Version/blob/master/DI_2.PNG" width="425"/>
+
+
+### Data Insight 3
+
+There were multiple trend lines in the chart all conveying the same trend. Thus, I combined both and kept the overall trend for each violation. Made corrections to annotated points as earlier they seemed random and didn't highlight the comparison between the two trend lines. 
+
+BEFORE           |  AFTER
+:-------------------------:|:-------------------------:
+<img src="https://github.com/Psharma2193/Individual-Project---First-Version/blob/master/DI_3 - Forecast.PNG" width="425"/>  |  <img src="https://github.com/Psharma2193/Individual-Project---Final-Version/blob/master/DI_3.PNG" width="425"/>
+
+
+### Data Insight 4
+
+BEFORE           |  AFTER
+:-------------------------:|:-------------------------:
+<img src="https://github.com/Psharma2193/Individual-Project---First-Version/blob/master/DI_4.PNG" width="425"/>  |  <img src="https://github.com/Psharma2193/Individual-Project---Final-Version/blob/master/DI_4.PNG" width="425"/>
